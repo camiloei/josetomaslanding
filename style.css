@@ -12,14 +12,6 @@ body {
   border-color: rgb(40, 35, 91);
 }
 
-.wide {
-  letter-spacing: 0.5em;
-}
-
-.med {
-  letter-spacing: 0.25em;
-}
-
 @font-face {
   font-family: 'Berenjena W03 Blanca';
   src: url('f8401eb555d4a75ffe7c470bd34c6c44.eot'); /* IE9*/
