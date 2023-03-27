@@ -14,16 +14,19 @@ body {
 
 @font-face {
   font-family: 'Berenjena W03 Blanca';
-  src: url('f8401eb555d4a75ffe7c470bd34c6c44.eot'); /* IE9*/
-  src: url('f8401eb555d4a75ffe7c470bd34c6c44.eot?#iefix')
+  src: url('./public/assets/f8401eb555d4a75ffe7c470bd34c6c44.eot'); /* IE9*/
+  src: url('./public/assets/f8401eb555d4a75ffe7c470bd34c6c44.eot?#iefix')
       format('embedded-opentype'),
-    /* IE6-IE8 */ url('f8401eb555d4a75ffe7c470bd34c6c44.woff2') format('woff2'),
-    /* chrome、firefox */ url('f8401eb555d4a75ffe7c470bd34c6c44.woff')
+    /* IE6-IE8 */ url('./public/assets/f8401eb555d4a75ffe7c470bd34c6c44.woff2')
+      format('woff2'),
+    /* chrome、firefox */
+      url('./public/assets/f8401eb555d4a75ffe7c470bd34c6c44.woff')
       format('woff'),
-    /* chrome、firefox */ url('f8401eb555d4a75ffe7c470bd34c6c44.ttf')
+    /* chrome、firefox */
+      url('./public/assets/f8401eb555d4a75ffe7c470bd34c6c44.ttf')
       format('truetype'),
     /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-      url('f8401eb555d4a75ffe7c470bd34c6c44.svg#Berenjena W03 Blanca')
+      url('./public/assets/f8401eb555d4a75ffe7c470bd34c6c44.svg#Berenjena W03 Blanca')
       format('svg'); /* iOS 4.1- */
 }
 
